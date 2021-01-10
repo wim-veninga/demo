@@ -2,18 +2,21 @@
   "memories": [
     {
       "id": 1,
-      "title": "Memory 1",
-      "story": "Story 1"
+      "title": "Lekker met zijn 2-tjes",
+      "story": "Wat een mooi stelletje zeg",
+      "mediaUrl": "/album1-content/PICT0028.jpg"
     },
     {
       "id": 2,
-      "title": "Memory 2",
-      "story": "Story 2"
+      "title": "Koffietijd 1",
+      "story": "Wat kijk je serieus Pa.",
+      "mediaUrl": "/album1-content/PICT0026.jpg"
     },
     {
       "id": 3,
-      "title": "Memory 3",
-      "story": "Story 3"
+      "title": "Koffietijd 2",
+      "story": "Wat kijk je serieus Pa.",
+      "mediaUrl": "/album1-content/PICT0027.jpg"
     }
   ],
   "users": [
