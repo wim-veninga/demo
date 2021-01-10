@@ -2,11 +2,18 @@
   "memories": [
     {
       "id": 1,
-      "title": "Memory 1"
+      "title": "Memory 1",
+      "story": "Story 1"
     },
     {
       "id": 2,
-      "title": "Memory 2"
+      "title": "Memory 2",
+      "story": "Story 2"
+    },
+    {
+      "id": 3,
+      "title": "Memory 3",
+      "story": "Story 3"
     }
   ],
   "users": [
