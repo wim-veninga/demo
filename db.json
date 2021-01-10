@@ -9,9 +9,11 @@
       "title": "Memory 2"
     }
   ],
-  "user": {
-     "id": 1,
-    "name": "Wim"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Wim"
+    }
+  ]
 }
   
